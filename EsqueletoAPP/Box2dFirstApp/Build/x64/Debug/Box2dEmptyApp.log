@@ -1,6 +1,0 @@
-﻿  main.cpp
-D:\Projects\MAVIIU2\Ejercicio 6\Box2dFirstApp\Src\main.cpp(20,70): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-D:\Projects\MAVIIU2\Ejercicio 6\Box2dFirstApp\Src\main.cpp(20,65): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-D:\Projects\MAVIIU2\Ejercicio 6\Box2dFirstApp\Src\main.cpp(20,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-D:\Projects\MAVIIU2\Ejercicio 6\Box2dFirstApp\Src\main.cpp(40,30): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
-  Box2dEmptyApp.vcxproj -> D:\Projects\MAVIIU2\Ejercicio 6\Box2dFirstApp\Bin\Debug\Box2dEmptyApp.exe
